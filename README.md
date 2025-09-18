@@ -15,4 +15,5 @@ BI & Infra: Tableau, Power BI, Looker Studio, AWS (EC2, S3, Glue), Azure
 Methods: Regression, Time Series, A/B Testing, Forecasting, Clustering
 
 🌱 Outside of Work
+
 I like experimenting with new tools and ideas — whether that’s prototyping with no-code platforms, exploring how AI can reshape workflows, or learning design practices that bring data to life. I enjoy side projects that let me connect data, strategy, and user experience in creative ways.
