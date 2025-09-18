@@ -3,6 +3,7 @@
 I’m a Business & Data Analyst with a background at the intersection of data analytics, business and product strategy. I recently completed my Master’s in Information Science at Cornell University, after earning a double major in Finance and Information Systems at Ohio State University.
 
 🔎 What I Do
+
 	•	Build data pipelines and dashboards (SQL, Python, PySpark, Tableau, Power BI) that turn fragmented data into clear, actionable insights.
 	•	Develop predictive models and conduct statistical analyses (regression, A/B testing, time series, clustering) to guide decision-making.
 	•	Partner with cross-functional teams to translate business needs into technical solutions, from dashboards to models to product roadmaps.
